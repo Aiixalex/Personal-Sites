@@ -1,0 +1,22 @@
+# Theme metadata
+name = "violet"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#aa4465"
+
+# Menu
+# menu_primary = "#283044"
+menu_primary = "#c08552"
+menu_text = "#f8f4e3"
+menu_text_active = "#aa4465" #
+menu_title = "#f8f4e3"
+
+# Home sections
+background = "#f8f4e3"
+home_section_odd = "#f8f4e3"
+# home_section_even = "#f0dfad"
+# home_section_even = "#edf0da"
+home_section_even = "#ebf5ee"
