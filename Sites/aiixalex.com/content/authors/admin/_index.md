@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate majoring in Computer Science
+role: BUG CREATOR
 
 # Organizations/Affiliations
-organizations:
-- name: ZJU x SFU Dual Degree Program
-  url: ""
+# organizations:
+# - name: ZJU x SFU Dual Degree Program
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: the 3rd movement of Sonata.
+bio: "Piano/Tennis/Dota is Life."
 
 # interests:
 # - C, C++, Python
@@ -26,12 +26,12 @@ bio: the 3rd movement of Sonata.
 
 education:
   courses:
-  - course: 计算机科学与技术
+  - course: BSc in Computer Science
+    institution: Simon Fraser University (Dual Degree Program)
+    year: 2020 - 2023
+  - course: BEng in Computer Science
     institution: Zhejiang University (Dual Degree Program)
     year: 2018 - 2020
-  - course: Computer Science
-    institution: Simon Fraser University (Dual Degree Program)
-    year: 2020 - present
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
@@ -46,14 +46,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:wyl2000@zju.edu.cn
+  link: mailto:redcloveralex@gmail.com
   # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Aiixalex
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/aiixalex/
+  link: https://www.instagram.com/wang_yilin10/
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -74,11 +74,10 @@ user_groups:
 ---
 
 \- :baby: Born in June, 2000 \
-\- :school: Currently Studying Computer Science at SFU \
-\- :musical_score: Piano Enthusiast \
+\- :graduation_cap: Bachelor's Degree in Computer Science from ZJU and SFU \
+\- :musical_keyboard: Piano Enthusiast \
 \- :camera: A Beginner Photographer \
-\- :blue_heart: Dota2, Board Game, Basketball \
-\- :minidisc: Favorite Album: 木马《果冻帝国》 \
-\- :game_die: Favorite Board Game: The Resistance: Avalon \
-\- :trophy: Favorite Sports Teams: PSG.LGD, Boston Celtics \
-\- :alien: One speechless fact: A friend who did not want to be named said that my portrait photo was taken according to this alien expression.
+\- :green_heart: Tennis, Dota2, Board Games \
+\- :minidisc: Favorite Bands: Radiohead, BCNR \
+\- :musical_score: Favorite Composers: Franz Liszt, Ludwig van Beethoven \
+\- :trophy: Favorite Teams and Athletes: Liverpool FC:soccer_ball:, Boston Celtics:basketball:, Rafael Nadal:tennis:

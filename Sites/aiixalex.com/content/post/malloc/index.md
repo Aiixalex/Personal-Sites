@@ -1,13 +1,13 @@
 ---
-title: Source Code of Malloc in the GNU C Library
-date: 2021-11-21
+title: Reading Source Code of Malloc in the GNU C Library
+date: 2022-11-21
 math: true
 diagram: true
 authors:
 - admin
 ---
 
-### Main Properties of the Dynamically Memory Allocation Algorithm
+### Dynamically Memory Allocation Algorithm
 
 * For large (>= 512 bytes) requests, it is a pure best-fit allocator, with ties normally decided via FIFO (i.e. least recently used).
 

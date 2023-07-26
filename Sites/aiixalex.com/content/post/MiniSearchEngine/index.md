@@ -1,54 +1,32 @@
 ---
 title: Mini Search Engine
-date: 2020-06-16
+date: 2021-06-16
 math: true
 diagram: true
 authors:
 - admin
 ---
 
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_01.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_02.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_03.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_04.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_05.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_06.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_07.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_08.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_09.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_10.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_11.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_12.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_13.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_14.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_15.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_16.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_17.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_18.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_19.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_20.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_21.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_22.bmp)
-
-![img](https://mystudio-1304603642.cos.ap-nanjing.myqcloud.com/img/MiniSearchEngine_23.bmp)
+![img](1.bmp)
+![img](2.bmp)
+![img](3.bmp)
+![img](4.bmp)
+![img](5.bmp)
+![img](6.bmp)
+![img](7.bmp)
+![img](8.bmp)
+![img](9.bmp)
+![img](10.bmp)
+![img](11.bmp)
+![img](12.bmp)
+![img](13.bmp)
+![img](14.bmp)
+![img](15.bmp)
+![img](16.bmp)
+![img](17.bmp)
+![img](18.bmp)
+![img](19.bmp)
+![img](20.bmp)
+![img](21.bmp)
+![img](22.bmp)
+![img](23.bmp)

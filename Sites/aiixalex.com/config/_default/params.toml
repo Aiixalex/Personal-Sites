@@ -22,7 +22,7 @@ font = "minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "wyl2000@zju.edu.cn"
-phone = "+86 17326087551"
+email = "redcloveralex@gmail.com"
+phone = "(+1)7786361620, (+86)17326087551"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Yuquan Campus, Zhejiang University", city = "Hangzhou", region = "Zhejiang", postcode = "", country = "China", country_code = "CN"}
+address = {street = "519-6328 Number 3 Road", city = "Richmond", region = "BC", postcode = "V6Y 0L6", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -105,7 +105,7 @@ coordinates = {latitude = "30.267325", longitude = "120.120921"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/aiixalex"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/aiixalex"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -256,7 +256,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
